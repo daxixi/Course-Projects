@@ -6,6 +6,11 @@ A small critique about a classic paper. [link](https://github.com/daxixi/Course-
 ## CS240 Computer Ethnics
 ### Computer Ethnics and Cyperpunk
 An intersting discussion between computer ethnics and cyperpunk2077. In chinese edition. [link](https://github.com/daxixi/Course-Projects/blob/main/Computer%20Ethnics%20and%20Cyperpunk.pdf)
+## CS386 Digital Graphics Processing
+### Multi-Channel Joint Model for Smartphone Camera Photo IQA Based on Residual Network
+We design a novel structure of neural networks. The networks can better evalutae the quality of smartphone camera images. Due to the problem of copyright. It cannot be released currecntly.
+### ASD Saliency Map Prediction and Discrimination Based on SalGAN
+A very interesting project. We use the method of SalGan to solve a interesting problem. We improve the method of SalGAN and used it to generate saliency map of ASD chidren. As a result, with our method, doctors can better discriminate and find those children with ASD. [link](https://github.com/daxixi/Course-Projects/blob/main/ASD%20Saliency%20Map%20Prediction%20and%20Discrimination.pdf). Follow my collaborators opinions, I will not release the source code yet.
 ## MA500 Application of fuzzy Math
 An interesting math project. Sometimes people would like to buy assemble computers, but feel difficult to find best solution. We use the method of fuzzy math and evaluate the performance of different computer hardware. The we give out a solution to how to choose the most economic and the most efficient composition of computer hardwares.  In chinese edition.[link](https://github.com/daxixi/Course-Projects/blob/main/Assembly%20machine%20evaluation.pdf)
 ## MA119 Probability and Stastics
